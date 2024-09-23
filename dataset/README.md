@@ -1,4 +1,4 @@
-all files can be downloaded in 10.5281/zenodo.13337019
+all files can be downloaded in https://doi.org/10.5281/zenodo.13337019
 
 Simulation Dataset for Multi-State (MS) Proteins
 
