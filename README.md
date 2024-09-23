@@ -1,5 +1,6 @@
 # PATHpre
 PATHpre is a a Large-scale Biophysical Sampling Augmented Deep Learning model that used to predict the transition pathway of proteins. 
+
 Please kindly cite: "Exploring Protein Conformational Changes Using a Large-scale Biophysical Sampling Augmented Deep Learning Strategy", Advanced Science, 2024
 
 ![fig3_5](https://github.com/user-attachments/assets/068f8173-066f-45ec-bf30-6380fa6168cd)
