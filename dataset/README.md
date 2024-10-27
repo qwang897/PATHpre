@@ -6,4 +6,4 @@ all files can be downloaded in https://doi.org/10.5281/zenodo.13337019
 
 "path_stru.zip": This archive contains protein structures along the transition pathway. The structures are provided in sequential frames, ranging from frame0.gro to frame19.gro. We only show proteins with clear two-states in our coarse-grained simulations, that is, the first 2006 entries in “MS_pair". If you need data for the rest proteins, please contact us.
 
-"distribution_stru.zip": This archive includes all structures distributed in the free energy landscape, 2000 frames for each protein. We only show proteins with clear two-states in our coarse-grained simulations.
+"distribution_stru.zip": This archive includes all structures distributed in the free energy landscape, 2000 frames for each protein. We only show proteins with clear two-states in our coarse-grained simulations. Please note that these 2000 frames only aim to exhibit various protein conformations during conformational changes. They were not picked by their real distributions (otherwise there are too few frames for the intermediate states). If you need data based on their distributions in simulations, please contact us. 
