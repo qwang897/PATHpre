@@ -35,4 +35,4 @@ Please refer to the Dataset folder for detailed information.
 
 ## Contact
 
-Please contact Wang Qian (wqq@ustc.edu.cn) for technical support.
+Please contact Qian Wang (wqq@ustc.edu.cn) for technical support.
